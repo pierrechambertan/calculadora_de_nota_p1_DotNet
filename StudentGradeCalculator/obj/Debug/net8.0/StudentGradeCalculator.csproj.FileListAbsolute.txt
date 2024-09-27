@@ -1,0 +1,14 @@
+/Users/pierrechambertin/RiderProjects/StudentGradeCalculator/StudentGradeCalculator/obj/Debug/net8.0/StudentGradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pierrechambertin/RiderProjects/StudentGradeCalculator/StudentGradeCalculator/obj/Debug/net8.0/StudentGradeCalculator.AssemblyInfoInputs.cache
+/Users/pierrechambertin/RiderProjects/StudentGradeCalculator/StudentGradeCalculator/obj/Debug/net8.0/StudentGradeCalculator.AssemblyInfo.cs
+/Users/pierrechambertin/RiderProjects/StudentGradeCalculator/StudentGradeCalculator/obj/Debug/net8.0/StudentGradeCalculator.csproj.CoreCompileInputs.cache
+/Users/pierrechambertin/RiderProjects/StudentGradeCalculator/StudentGradeCalculator/bin/Debug/net8.0/StudentGradeCalculator
+/Users/pierrechambertin/RiderProjects/StudentGradeCalculator/StudentGradeCalculator/bin/Debug/net8.0/StudentGradeCalculator.deps.json
+/Users/pierrechambertin/RiderProjects/StudentGradeCalculator/StudentGradeCalculator/bin/Debug/net8.0/StudentGradeCalculator.runtimeconfig.json
+/Users/pierrechambertin/RiderProjects/StudentGradeCalculator/StudentGradeCalculator/bin/Debug/net8.0/StudentGradeCalculator.dll
+/Users/pierrechambertin/RiderProjects/StudentGradeCalculator/StudentGradeCalculator/bin/Debug/net8.0/StudentGradeCalculator.pdb
+/Users/pierrechambertin/RiderProjects/StudentGradeCalculator/StudentGradeCalculator/obj/Debug/net8.0/StudentGradeCalculator.dll
+/Users/pierrechambertin/RiderProjects/StudentGradeCalculator/StudentGradeCalculator/obj/Debug/net8.0/refint/StudentGradeCalculator.dll
+/Users/pierrechambertin/RiderProjects/StudentGradeCalculator/StudentGradeCalculator/obj/Debug/net8.0/StudentGradeCalculator.pdb
+/Users/pierrechambertin/RiderProjects/StudentGradeCalculator/StudentGradeCalculator/obj/Debug/net8.0/StudentGradeCalculator.genruntimeconfig.cache
+/Users/pierrechambertin/RiderProjects/StudentGradeCalculator/StudentGradeCalculator/obj/Debug/net8.0/ref/StudentGradeCalculator.dll
